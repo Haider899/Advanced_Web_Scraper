@@ -1,6 +1,6 @@
-requests==
-beautifulsoup4==
-pandas==
-openpyxl==
-lxml==
-urllib3==
+requests
+beautifulsoup4
+pandas
+openpyxl
+lxml
+urllib3
