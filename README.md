@@ -7,7 +7,7 @@ A powerful universal web scraper that works on ANY website. Features interactive
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/Advanced_Web_Scraper.git
-cd universal-web-scraper
+cd Advanced_Web_Scraper
 
 # Install dependencies
 pip install -r requirements.txt
