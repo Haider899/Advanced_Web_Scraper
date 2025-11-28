@@ -6,7 +6,7 @@ A powerful universal web scraper that works on ANY website. Features interactive
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/universal-web-scraper.git
+git clone https://github.com/yourusername/Advanced_Web_Scraper.git
 cd universal-web-scraper
 
 # Install dependencies
